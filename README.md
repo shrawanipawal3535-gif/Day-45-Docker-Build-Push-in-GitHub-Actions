@@ -36,4 +36,13 @@ Add a condition so the push step only runs on the main branch — not on feature
 
 Test it: push to a feature branch and verify the image is built but NOT pushed.
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/55c75041-2fad-4184-ba47-1330c690dae2" />
+
+## Task 5: Add a Status Badge
+
+  1. Get the badge URL for your docker-publish workflow from the Actions tab
+  2. Add it to your README.md
+  3. Push — the badge should show green
+
+
 
