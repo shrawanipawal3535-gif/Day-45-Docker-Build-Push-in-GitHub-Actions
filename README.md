@@ -27,3 +27,13 @@ Add steps to:
   1. Log in to Docker Hub using your secrets
   2. Tag the image as username/repo:latest and also username/repo:sha-<short-commit-hash>
   3. Push both tags
+
+     <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/cdfcda77-dd71-4c70-8364-0399feed8c10" />
+
+   ##  Task 4: Only Push on Main
+   
+Add a condition so the push step only runs on the main branch — not on feature branches or PRs.
+
+Test it: push to a feature branch and verify the image is built but NOT pushed.
+
+
