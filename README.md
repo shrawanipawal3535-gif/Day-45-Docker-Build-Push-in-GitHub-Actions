@@ -43,6 +43,6 @@ Test it: push to a feature branch and verify the image is built but NOT pushed.
   1. Get the badge URL for your docker-publish workflow from the Actions tab
   2. Add it to your README.md
   3. Push — the badge should show green
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/27d1d836-65cb-43a5-a789-ed4148becf29" />
 
 
